@@ -28,5 +28,4 @@ public class ProjectFirst {
     System.out.println("raznost="+raznost);
     System.out.println("delenie="+delenie);
     }
-    
 }
